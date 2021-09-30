@@ -1,0 +1,1 @@
+insert into dbo.admin_list_table (_name, _password) values ('admin', '1234')
